@@ -56,7 +56,7 @@ dropdown-ների option-ների ստեղծում
 
 ### 1) Ներբեռնել repository-ն
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
+git clone https://github.com/HayrapetyanSergey/car_dashboard.git
 
 cd <YOUR_REPO>
 
