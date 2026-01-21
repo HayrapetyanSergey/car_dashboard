@@ -58,7 +58,7 @@ dropdown-ների option-ների ստեղծում
 ```bash
 git clone https://github.com/HayrapetyanSergey/car_dashboard.git
 
-cd <YOUR_REPO>
+cd car_dashboard
 
 python3 -m venv .venv
 
